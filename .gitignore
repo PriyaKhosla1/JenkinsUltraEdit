@@ -1,0 +1,23 @@
+# Reports directories
+[Rr]eports/
+
+# Build results
+[Bb]in/
+[Dd]ebug/
+[Oo]bj/
+x64/
+x86/
+
+# Files
+*.rxlog.data
+*.rxlog
+*.rxzlog
+
+# User specific files
+*.csproj.rxuser
+
+# Solution specific files
+*.rxsln.pref
+
+# Project specific files
+*.csproj.pref
